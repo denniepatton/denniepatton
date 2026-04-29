@@ -1,6 +1,6 @@
 # Robert “Dennie” Patton, PhD
 
-Computational biologist developing rigorous machine learning methods for translational genomics and precision oncology.
+Computational biologist developing machine learning methods for translational genomics and precision oncology.
 
 My work focuses on extracting clinically meaningful regulatory and phenotypic signals from complex biological data, with a current emphasis on cell-free DNA, liquid biopsy, and multi-omic inference. I am especially interested in methods that are mechanistically grounded, uncertainty-aware, and useful in real-world translational settings.
 
@@ -24,16 +24,16 @@ Deep learning framework for predicting tumor gene-expression and regulatory prog
 
 ## Selected Publications
 
-- **[Deep learning-based non-invasive profiling of tumor transcriptomes from cell-free DNA for precision oncology](https://doi.org/10.64898/2026.02.10.705188 )**  
+- **[Deep learning-based non-invasive profiling of tumor transcriptomes from cell-free DNA for precision oncology](https://doi.org/10.64898/2026.02.10.705188 )**
   Preprint / manuscript in review
 
-- **[Nucleosome patterns in circulating tumor DNA reveal transcriptional regulation of advanced prostate cancer phenotypes](https://doi.org/10.1158/2159-8290.CD-22-0692)**  
+- **[Nucleosome patterns in circulating tumor DNA reveal transcriptional regulation of advanced prostate cancer phenotypes](https://doi.org/10.1158/2159-8290.CD-22-0692)**
   *Cancer Discovery* (2023)
 
-- **[A framework for clinical cancer subtyping from nucleosome profiling of cell-free DNA](https://doi.org/10.1038/s41467-022-35076-w)**  
+- **[A framework for clinical cancer subtyping from nucleosome profiling of cell-free DNA](https://doi.org/10.1038/s41467-022-35076-w)**
   *Nature Communications* (2022)
 
-- **[Preeclampsia risk prediction from prenatal cell-free DNA screening](https://doi.org/10.1038/s41591-025-03509-w)**  
+- **[Preeclampsia risk prediction from prenatal cell-free DNA screening](https://doi.org/10.1038/s41591-025-03509-w)**
   *Nature Medicine* (2025)
 
 ## Research Interests
@@ -45,3 +45,4 @@ I aim to build computational methods that move beyond static biomarker detection
 - [Google Scholar](https://scholar.google.com/citations?user=HhRCjDsAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0003-2159-1199)
 - [LinkedIn](https://www.linkedin.com/in/robert-d-patton)
+
